@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jscarrs
 - 👀 I’m interested in web development and cybsecurity
-- 🌱 I’m currently learning SQL, Javascript, Java, Linux and Web-Programming!
+- 🌱 I’m currently learning SQL, Javascript, Java, Linux and Data Structures!
 - ⚡ Fun fact: I love watching anime!
 
 <!---
